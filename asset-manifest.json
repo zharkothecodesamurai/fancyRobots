@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fancyRobots/static/css/main.b24442db.chunk.css",
+    "main.js": "/fancyRobots/static/js/main.0f105d51.chunk.js",
+    "main.js.map": "/fancyRobots/static/js/main.0f105d51.chunk.js.map",
+    "runtime-main.js": "/fancyRobots/static/js/runtime-main.9bff62bd.js",
+    "runtime-main.js.map": "/fancyRobots/static/js/runtime-main.9bff62bd.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/fancyRobots/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7dc1175e.chunk.js": "/fancyRobots/static/js/2.7dc1175e.chunk.js",
+    "static/js/2.7dc1175e.chunk.js.map": "/fancyRobots/static/js/2.7dc1175e.chunk.js.map",
+    "index.html": "/fancyRobots/index.html",
+    "precache-manifest.913d6e2971b4e78193fd5ed313c22427.js": "/fancyRobots/precache-manifest.913d6e2971b4e78193fd5ed313c22427.js",
+    "service-worker.js": "/fancyRobots/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/fancyRobots/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.b24442db.chunk.css.map": "/fancyRobots/static/css/main.b24442db.chunk.css.map",
+    "static/js/2.7dc1175e.chunk.js.LICENSE.txt": "/fancyRobots/static/js/2.7dc1175e.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/fancyRobots/static/media/SEGA LOGO FONT.b6e9bb37.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bff62bd.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7dc1175e.chunk.js",
+    "static/css/main.b24442db.chunk.css",
+    "static/js/main.0f105d51.chunk.js"
+  ]
+}
